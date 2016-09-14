@@ -1,0 +1,16 @@
+{
+  "name": "think_in_react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "solution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saposki",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-addons-test-utils": "^15.1.0",
+    "react-dom": "^15.1.0"
+  }
+}
